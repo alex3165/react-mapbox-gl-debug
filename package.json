@@ -4,9 +4,10 @@
   "private": true,
   "dependencies": {
     "mapbox-gl": "^0.34.0",
+    "prop-types": "^15.5.6",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
-    "react-mapbox-gl": "^1.5.2"
+    "react-mapbox-gl": "^1.7.4"
   },
   "devDependencies": {
     "react-scripts": "0.9.5"
